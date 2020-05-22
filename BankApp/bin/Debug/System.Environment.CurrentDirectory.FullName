@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <userName>mario33</userName>
+    <password>password</password>
+    <IBAN>2324324lkjsd234</IBAN>
+    <amount>5500</amount>
+    <lastVisited>2020-05-22T12:57:48.30361+01:00</lastVisited>
+  </Account>
+  <Account>
+    <userName>mario66</userName>
+    <password>password</password>
+    <IBAN>2324324lkjsd234</IBAN>
+    <amount>5500</amount>
+    <lastVisited>2020-05-22T12:57:48.3046065+01:00</lastVisited>
+  </Account>
+</ArrayOfAccount>
